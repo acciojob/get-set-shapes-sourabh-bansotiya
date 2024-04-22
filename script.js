@@ -6,7 +6,6 @@ class Rectangle {
 	}
 	get width(){
 		this._width; 
-			this.height;
 	}
 	get height(){ 
 			this._height;
